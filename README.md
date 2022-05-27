@@ -7,7 +7,10 @@ Using `pnpm 7.1.6` with `corepack`, versions tested:
 - Vite 3.0.0-alpha.6, Vue ^3.2.36 and @vitejs/plugin-vue ^2.3.3 (exact version for Vite)
 - Vite 3.0.0-alpha.6, Vue ^3.2.36 and @vitejs/plugin-vue 3.0.0-alpha.1 (exact version for Vite and @vitejs/plugin-vue)
 
-The results can be found comparing `dist-vite-**/assets/index.XXXX.js`.
+The results can be found comparing `dist-vite-**/assets/index.XXXX.js`, not minified:
+- folder dist-vite-2.9.9
+- folder dist-vite-3.a.6
+- folder dist-vite-3.a.6-p-3.a.1
 
 <details>
 <summary><strong>VUE 3.2.36/VITE 2.9.9/VUE PLUGIN 2.3.3</strong></summary>
