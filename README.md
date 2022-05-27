@@ -2,6 +2,13 @@
 
 **Vue3: <strong>npm create vite vite-3-alpha-6-test -- --template vue-ts**
 
+Using `pnpm 7.1.6` with `corepack`, versions tested:
+- Vite ^2.9.9, Vue ^3.2.36 and @vitejs/plugin-vue ^2.3.3
+- Vite 3.0.0-alpha.6, Vue ^3.2.36 and @vitejs/plugin-vue ^2.3.3 (exact version for Vite)
+- Vite 3.0.0-alpha.6, Vue ^3.2.36 and @vitejs/plugin-vue 3.0.0-alpha.1 (exact version for Vite and @vitejs/plugin-vue)
+
+The results can be found comparing `dist-vite-**/assets/index.XXXX.js`.
+
 <details>
 <summary><strong>VUE 3.2.36/VITE 2.9.9/VUE PLUGIN 2.3.3</strong></summary>
 
