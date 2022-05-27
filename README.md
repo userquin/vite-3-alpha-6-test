@@ -1,6 +1,6 @@
 # Vue 3 + TypeScript + Vite v3.0.0-alpha-6
 
-**Vue3: <strong>npm create vite vite-3-alpha-6-test -- --template vue-ts**
+**Vue3: npm create vite vite-3-alpha-6-test -- --template vue-ts**
 
 Using `pnpm 7.1.6` with `corepack`, versions tested:
 - Vite ^2.9.9, Vue ^3.2.36 and @vitejs/plugin-vue ^2.3.3
