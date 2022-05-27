@@ -1,0 +1,20 @@
+{
+  "name": "vite-3-alpha-6-test",
+  "packageManager": "pnpm@7.1.6",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.36"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "3.0.0-alpha.1",
+    "pnpm": "^7.1.6",
+    "typescript": "^4.7.2",
+    "vite": "3.0.0-alpha.6",
+    "vue-tsc": "^0.34.16"
+  }
+}
