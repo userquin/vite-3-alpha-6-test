@@ -1,5 +1,7 @@
 # Vue 3 + TypeScript + Vite v3.0.0-alpha-6
 
+https://github.com/vitejs/vite/pull/8358
+
 **Vue3: npm create vite vite-3-alpha-6-test -- --template vue-ts**
 
 Using `pnpm 7.1.6` with `corepack`, versions tested:
