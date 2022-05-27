@@ -1,7 +1,6 @@
 # Vue 3 + TypeScript + Vite v3.0.0-alpha-6
 
-<details>
-<summary>Vue3: <strong>npm create vite vite-3-alpha-6-test -- --template vue-ts</strong></summary>
+**Vue3: <strong>npm create vite vite-3-alpha-6-test -- --template vue-ts**
 
 <details>
 <summary><strong>VUE 3.2.36/VITE 2.9.9/VUE PLUGIN 2.3.3</strong></summary>
@@ -55,8 +54,6 @@ dist/index.html                  0.42 KiB
 dist/assets/index.06df8542.css   0.41 KiB / gzip: 0.27 KiB
 dist/assets/index.efb834ec.js    160.73 KiB / gzip: 38.02 KiB
 ```
-</details>
-
 </details>
 
 
